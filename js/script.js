@@ -9,9 +9,6 @@ helixResponse[3] = "Nah...";
 helixResponse[4] = "Sorry ...ask again?";
 helixResponse[5] = "YES.. FOR SURE..";
 
-// Arrow function returning response! Yay
-
-console.log(helixResponse[Math.floor(Math.random() * 6)]);
 //target the user input
 let input = document.querySelector("#userResponse");
 // target the response output
