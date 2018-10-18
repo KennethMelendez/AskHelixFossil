@@ -1,0 +1,17 @@
+* {
+    padding:0;
+    margin: 0;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#fossil {
+    margin-top:60px;
+    max-width: 10%;
+}
+
+#userResponse {
+    margin-top:30px;
+    padding:10px;
+}
